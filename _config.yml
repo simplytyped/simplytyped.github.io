@@ -1,2 +1,3 @@
 name: SimplyTyped
 pygments: true
+markdown: kramdown
